@@ -18,7 +18,7 @@
 ### 📗프로젝트 자료
 
 [![WineDay 시연 영상](http://img.youtube.com/vi/93SK6YejhFk/0.jpg)](https://youtu.be/93SK6YejhFk?t=0s) 
-↑유튜브로 시연 영상이 연결됩니다.
+유튜브로 시연 영상이 연결됩니다.
 
 |      |      |
 |:-----:|:-----:|
